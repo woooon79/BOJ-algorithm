@@ -96,8 +96,5 @@ public class 구간나누기_2228 {
 	    System.out.println(result);
 	    
 	    
-	    
-	    
-	    
 	}
 }
